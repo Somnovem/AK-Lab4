@@ -9,7 +9,7 @@
 #include <linux/errno.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("IO-35 Artem Zhmura");
+MODULE_AUTHOR("IO-35 Zhmura Artem");
 MODULE_DESCRIPTION("Hello, world module with parameter and time list");
 MODULE_VERSION("0.1");
 
